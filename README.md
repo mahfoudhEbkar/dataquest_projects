@@ -5,7 +5,7 @@
 </tr>
 <tr>
 <td colspan="4">
-<a href="https://github.com/mahfoudhEbkar/dataquest_projects"> Will include diffrent challenges on data Analysis , Machine Learning such as : </a> </br>  Cleaning Data,</br> 
+<a href="https://github.com/mahfoudhEbkar/dataquest_projects"> Will include different challenges on data Analysis , Machine Learning such as : </a> </br>  Cleaning Data,</br> 
 APIs and Web Scraping,</br> Distributions and Sampling,</br> Decision Trees,</br> Classification Basics, K Means Clustering ,  Clustering Basics , Linear Regression,</br> Neural Networks , Data Structures and Algorithms, </br> Spark and Map-Reduce
 </td>
 </tr>
@@ -36,7 +36,7 @@ fictional digital music shop</br> Entertainment, Environment<br>Government Polic
 </tr>
 <tr>
 <td colspan="4">
-<p>My solutions to challenges and projects that I have accomplished on Dataquest. <br> More details about evey project includes  README.md document  </p>
+<p>My solutions to challenges and projects that I have accomplished on Dataquest. <br> More details about evey project include  README.md document  </p>
 </td>
 </tr>
 <tr>
