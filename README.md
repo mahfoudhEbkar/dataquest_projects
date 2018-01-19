@@ -36,7 +36,7 @@ fictional digital music shop</br> Entertainment, Environment<br>Government Polic
 </tr>
 <tr>
 <td colspan="4">
-<p>My solutions to challenges and projects that I have accomplished on Dataquest. <br> More details about evey project include  README.md document  </p>
+<p>My solutions to challenges and projects that I have accomplished on Dataquest. <br> More details about evey "project/folder" is  included in its  README.md document  </p>
 </td>
 </tr>
 <tr>
