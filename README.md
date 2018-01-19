@@ -1,11 +1,12 @@
 <table>
 <tr></tr>
 <tr>
-<td colspan="4"><b>Project</b></td>
+<td colspan="4"><b>Projects</b></td>
 </tr>
 <tr>
 <td colspan="4">
-<a href="https://github.com/mahfoudhEbkar/dataquest_projects">Challenge Cleaning Data</a>
+<a href="https://github.com/mahfoudhEbkar/dataquest_projects"> Will include diffrent challenges on data Analysis , Machine Learning such as : </a> </br>  Cleaning Data,</br> 
+APIs and Web Scraping,</br> Distributions and Sampling,</br> Decision Trees,</br> Classification Basics, K Means Clustering ,  Clustering Basics , Linear Regression,</br> Neural Networks , Data Structures and Algorithms, </br> Spark and Map-Reduce
 </td>
 </tr>
 <tr>

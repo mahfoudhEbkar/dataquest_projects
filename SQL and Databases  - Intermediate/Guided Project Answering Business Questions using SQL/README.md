@@ -5,7 +5,7 @@
 </tr>
 <tr>
 <td colspan="4">
-<a href="https://github.com/mahfoudhEbkar/dataquest_projects">Guided Project Answering Business Questions using SQL</a>
+<a href="https://github.com/mahfoudhEbkar/dataquest_projects/tree/master/SQL%20and%20Databases%20%20-%20Intermediate/Guided%20Project%20Answering%20Business%20Questions%20using%20SQL">Guided Project Answering Business Questions using SQL</a>
 </td>
 </tr>
 <tr>
